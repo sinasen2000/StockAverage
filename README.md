@@ -26,8 +26,10 @@ and then use the functions or play around with the market analyzer class to crea
 ### The data of big turkish companies (with more than 15 as their stock price)
 <img src="images/img3.jpg">
 
+### The companies in the lexicographical order
 <img src="images/img4.jpg">
 
+### The average stock price of all of the indices of the market and the average change of market value in terms of percentage
 <img src="images/img5.jpg">
 
 
