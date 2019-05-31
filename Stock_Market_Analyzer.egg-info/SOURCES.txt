@@ -1,0 +1,8 @@
+README.md
+market_analyzer_tr.py
+scrap_stocks_tr.py
+setup.py
+Stock_Market_Analyzer.egg-info/PKG-INFO
+Stock_Market_Analyzer.egg-info/SOURCES.txt
+Stock_Market_Analyzer.egg-info/dependency_links.txt
+Stock_Market_Analyzer.egg-info/top_level.txt

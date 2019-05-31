@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Stock-Market-Analyzer
+Version: 0.1
+Summary: A tool to scrap and analtze stock market data
+Home-page: https://github.com/sinasen2000/StockAverage
+Author: Sina Sen
+Author-email: sinasen2000@hotmail.com
+License: UNKNOWN
+Description: # StockAverage
+        Stock Average is a web-scraping project that scraps the stock prices of an index, finds the average value of the stock prices and the average of the percentage change of the stock prices of companies.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
