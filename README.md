@@ -4,7 +4,7 @@ Stock Average is a web-scraping data analysis project that scraps the stock pric
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install StockAverage.
 
 ```bash
 pip install Stock-Market-Analyzer
