@@ -23,6 +23,7 @@ and then use the functions or play around with the market analyzer class to crea
 
 <img src="images/img2.jpg">
 
+### The data of big turkish companies (with more than 15 as their stock price)
 <img src="images/img3.jpg">
 
 <img src="images/img4.jpg">
