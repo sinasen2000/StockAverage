@@ -19,15 +19,15 @@ and then use the functions or play around with the market analyzer class to crea
 
 ## Screenshots
 
-<img src=/img1.jpg>
+<img src="images/img1.jpg">
 
-<img src=/img2.jpg>
+<img src="images/img2.jpg">
 
-<img src=/img3.jpg>
+<img src="images/img3.jpg">
 
-<img src=/img4.jpg>
+<img src="images/img4.jpg">
 
-<img src=/img5.jpg>
+<img src="images/img5.jpg">
 
 
 ## Contributing
